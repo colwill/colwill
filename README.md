@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Aaron, my foss account is @heyayayron. I'm a tech lead at Mythical with over a decade of professional experience, I've used a variety of technologies and languages throughout my career, but I'm most keen on C#, Rust and NodeJS.
+My name is Aaron. I'm a tech lead at Mythical with over a decade of professional experience, I've used a variety of technologies and languages throughout my career, but I'm most keen on C#, Rust and NodeJS.
 
     👷‍♂️ I’m currently working at Mythical solving for high-scalability application streaming
     🔧 I work in C#, .NET, Go, Rust, NodeJS
