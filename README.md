@@ -1,8 +1,8 @@
 ### Hi 👋
 
-My name is Aaron. I'm a tech lead at Mythical with over a decade of professional experience, I've used a variety of technologies and languages throughout my career, but I'm most keen on C#, Rust and NodeJS. In my spare time I work on my hobby project called `runcfg`; a runtime configuration tool.
+My name is Aaron. I'm a senior leader with over a decade of professional experience in software engineering, cloud architecture and highly-scalable hybrid-cloud. I've used a variety of technologies and languages throughout my career, but I'm most keen on Rust, C#, Go and NodeJS. In my spare time I work on my hobby project called `runcfg`; a runtime configuration tool.
 
-    👷‍♂️ I’m currently working at Mythical solving for high-scalability application streaming
+    👷‍♂️ I’m currently working at Bazaarvoice solving for high-scalability cloud services
     🔧 I work in C#, .NET, Go, Rust, NodeJS
     🧰 I work with AWS, GCP, Rider, GoLand, CLion, Kubernetes, Docker, CodeFresh, Artifactory
     🏅 I’m interested in e-sports, running, woodworking and metalworking
