@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My name is Aaron. I'm a senior leader with over a decade of professional experience in software engineering, cloud architecture and highly-scalable hybrid-cloud. I've used a variety of technologies and languages throughout my career, but I'm most keen on Rust, C#, Go and NodeJS. In my spare time I work on my hobby project called `runcfg`; a runtime configuration tool.
+My name is Aaron. I'm a senior leader with over a decade of professional experience in software engineering, cloud architecture and highly-scalable hybrid-cloud. I've used a variety of technologies and languages throughout my career, but I'm most keen on Rust, C#, Go and NodeJS. In my spare time I work on my hobby project [runcfg](https://github.com/runcfg); a runtime configuration tool.
 
     👷‍♂️ Currently working at Bazaarvoice solving for high-scalability cloud services
     🔧 I work in C#, Go, Rust, NodeJS & Python
