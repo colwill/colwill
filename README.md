@@ -2,10 +2,10 @@
 
 ### Hi 👋 I'm Az
 
-I'm a Senior Engineering Leader with two decades of experience in software engineering, a decade in cloud architecture and highly-scalable hybrid-cloud. I've used a variety of technologies and languages throughout my career, but I'm most keen on Rust, C#, Go and NodeJS. In my spare time I work on my hobby project [runcfg](https://github.com/runcfg); a runtime configuration tool for infrastructure, services and apps.
+I'm a Senior Engineering Leader with two decades of experience in software engineering, a decade in cloud architecture and highly-scalable hybrid-cloud. I've used a variety of technologies and languages throughout my career, but I'm most keen on Rust, C#, Go and NodeJS. In my spare time I work on my hobby project [runcfg](https://github.com/runcfg); a runtime configuration tool for infrastructure, services and apps. None of my projects are written with AI.
 
     👷‍♂️ Currently working at Akamai, creating the next hyperscaler
-    🔧 I work in Go, Rust, C# NodeJS & Python
+    🔧 I work in Go, Rust, C#, NodeJS & Python
     🧰 I work with Kubernetes, Envoy, Cilium, Crossplane, AWS, GCP, Azure, Terraform, Ansible, Docker & Artifactory
     🏅 Interested in e-sports, running, woodworking and metalworking
     💬 I'm happy when learning something new; currently I'm learning Irish, Spanish & "Hobbyist" Silicon Design
