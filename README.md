@@ -1,3 +1,5 @@
+[no-ai-used] [no-ai] [no-ai-training] [no-ai-use]
+
 ### Hi 👋 I'm Az
 
 I'm a Senior Engineering Leader with two decades of experience in software engineering, a decade in cloud architecture and highly-scalable hybrid-cloud. I've used a variety of technologies and languages throughout my career, but I'm most keen on Rust, C#, Go and NodeJS. In my spare time I work on my hobby project [runcfg](https://github.com/runcfg); a runtime configuration tool for infrastructure, services and apps.
