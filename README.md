@@ -1,6 +1,6 @@
 ### 👋 I'm Az
 
-I'm a Senior Engineering Leader with two decades of experience in software engineering, a decade in cloud architecture, highly-scalable hybrid-cloud and hyperscalers. I've used a variety of technologies and languages throughout my career, but I'm most keen on Rust & Go. In my spare time I work on my hobby project [runcfg](https://github.com/runcfg); a runtime configuration tool for infrastructure, services and apps.
+I'm a Senior Engineering Leader with two decades of experience in software engineering, a decade in cloud architecture, highly-scalable hybrid-cloud and hyperscalers. I've used a variety of technologies and languages throughout my career, but I'm most keen on Rust & Go. In my spare time I work on my hobby project [runcorp](https://github.com/runcorporation); developer tooling in the age of Agents.
 
     👷‍♂️ Currently working at Akamai, creating the next hyperscaler
     🔧 I work in Go, Rust, C#, NodeJS & Python
